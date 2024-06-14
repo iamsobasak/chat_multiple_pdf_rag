@@ -13,6 +13,8 @@ load_dotenv()
 
 st.title("Chat with Multiple PDFs")
 
+st.info("Please upload PDFs in the left side bar to start Q&A")
+
 st.markdown(
     """
     <style>
