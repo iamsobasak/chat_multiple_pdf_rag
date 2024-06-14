@@ -1,0 +1,28 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-experimental
+langchain-cohere
+langchain_google_genai
+langchain-anthropic
+langchain-groq
+tiktoken
+black
+streamlit
+pypdf
+rapidocr-onnxruntime
+pymupdf
+unstructured[all-docs]
+spacy
+sentence-transformers
+faiss-cpu
+
+
+
+
+
+
+#### TODO After installing Spacy, we need to execute python -m spacy download en_core_web_lg so that the models get downloaded
+#### sentence-transformers max tokens can be 384
